@@ -11,4 +11,8 @@ git commit -m "(commit message)"
 git push
 ```
 
+![Baby Croc](CROC.jpg)
 
+to autocomplete filenames in vim
+- Ctrl+x Ctrl+f
+- Ctrl+n to cylce through options
